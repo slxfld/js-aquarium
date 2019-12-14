@@ -5,4 +5,4 @@ a fallingsand simulation in Javascript
 GPLv3
 
 # Author
-Simon Lixenfeld 2018
+*Simon Lixenfeld 2018*
